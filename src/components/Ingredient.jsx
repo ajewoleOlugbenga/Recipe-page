@@ -23,9 +23,9 @@ const handleChangeButter = (e) =>{
   }
 
   return (
-    <section className="md:flex md:items-center md:gap-40">
+    <section className="md:flex md:items-center md:gap-40 ">
       
-    <div className="w-[550px] md:h-auto md:mb-50 md:ml-28">
+    <div className="md:w-[550px] md:h-auto md:mb-50 md:ml-28">
       
       <h1 className="font-extrabold font-Playfair text-2xl ml-2 mb-2">Ingredients</h1>
       <h2 className="font-bold font-Playfair text-xl text-gray-600 ml-2 mb-2">Graham Cracker Crust</h2>

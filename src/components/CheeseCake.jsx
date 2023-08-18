@@ -43,8 +43,8 @@ const handleSalted =() => {
 
   return (
     <section>
-      <div className='md:mt-0 md:ml-28'>
-      <div className='mt-6 md: w-[530px] h-auto '>
+      <div className='md:mt-0 md:ml-28 w-96'>
+      <div className='mt-6 md:w-[530px] h-auto '>
         <i className='font-Playfair text-xl text-gray-600 ml-2'>Cheesecake</i>
         <ul>
           <li className="flex items-center mt-4"><Checkbox 
