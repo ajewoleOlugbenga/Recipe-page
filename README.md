@@ -20,7 +20,7 @@ The Recipe Page App showcases a beautifully designed and responsive recipe card.
 
 ## Demo
 
-![Recipe Page App Demo](./demo.gif)
+![Recipe Page App Demo](https://recipe-page-eight-delta.vercel.app/)
 
 ## Features
 
