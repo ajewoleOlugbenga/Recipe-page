@@ -19,9 +19,7 @@ Welcome to the Recipe Page App! This project features a responsive recipe card U
 The Recipe Page App showcases a beautifully designed and responsive recipe card. The app leverages React to manage the UI components, integrates animations with Framer Motion, and ensures a clean layout with Tailwind CSS.
 
 ## Demo
-
-![Recipe Page App Demo](https://recipe-page-eight-delta.vercel.app/)
-
+https://recipe-page-eight-delta.vercel.app/
 ## Features
 
 - Visually appealing and responsive recipe card UI.
